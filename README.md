@@ -1,3 +1,4 @@
 # Spring Project
 ## Technologies: Spring Boot, JPA, H2, Hibernate
-## Goal: Learn Java Back-End 
+## Goal: Learn Java Back-End
+## Project: Ordering system
